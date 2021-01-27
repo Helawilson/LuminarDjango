@@ -1,0 +1,7 @@
+print(True & False)
+print(2&4)
+print(2|4)
+print(4|8)
+print(10<20)
+print(10<=10)
+print(False<=False)
